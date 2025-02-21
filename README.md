@@ -1,2 +1,11 @@
 # Assignment-1-DEVOPS-
-Group project
+
+
+## Description
+This project demonstrates the Git workflow. It includes tasks such as branching, merging, and resolving conflicts.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+
